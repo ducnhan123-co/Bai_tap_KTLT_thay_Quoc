@@ -1,0 +1,11 @@
+File co: 0 chuoi
+Chuoi dai nhat co 0 ky tu:
+Chuoi dai nhat la: 
+File co: 0 tu
+Chuoi co: 0 nguyen am va: 0 phu am.
+Khong tim thay tu nao ben phai.
+Khong tim thay tu nao ben trai.
+So lan xuat hien chuoi con 'vietnam' (moi dong chi tinh mot lan) la: 0
+Chuoi co : 0 tu Viet Nam 
+
+
